@@ -1,0 +1,19 @@
+.container{
+    @media screen and (max-width:'480px') {
+        position: absolute;
+        width: 320px;
+        left: 0px;
+        top: 45px
+    }
+}
+.card{
+    @media screen and (max-width:'480px'){
+        position: absolute;
+        width: 284px;
+        height: 271px;
+        left: 18px;
+        top: 64px;
+        margin-left:'50px'
+    }
+    
+}
